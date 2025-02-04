@@ -51,6 +51,3 @@ aws-image-classification/
 
 ## Contributing
 Feel free to fork and contribute! Pull requests are welcome.
-
-## License
-MIT License.
